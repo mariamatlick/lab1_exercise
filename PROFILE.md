@@ -1,4 +1,4 @@
-M# Maria Matlick
+# Maria Matlick
 ## University of Washington
 ### Sophomore
 ![Alt InfoPicture](/InfoPicture.jpeg)
